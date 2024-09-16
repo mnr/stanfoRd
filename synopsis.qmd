@@ -1,0 +1,115 @@
+---
+title: "stanfoRd synopsis"
+author: "Mark Niemann-Ross"
+format: html
+editor: visual
+---
+
+# Introduction to R
+
+1.  Why R?
+
+    1.  matrices are native
+
+    2.  charts are included
+
+    3.  statistics
+
+    4.  packages
+
+    5.  one of three must-have data science languages
+
+        1.  sql
+
+        2.  python with numpy
+
+        3.  R
+
+    6.  Open source and free
+
+        1.  GNU General Public License
+
+2.  What does R look like?
+
+    1.  BaseR
+
+    2.  BaseR with pipe-forward
+
+    3.  Tidyverse
+
+3.  Install R
+
+    1.  Install the language
+
+    2.  Rstudio and other IDEs
+
+        1.  <https://posit.co/>
+
+    3.  CRAN - The Comprehensive R Archive Network
+
+        1.  <https://cran.r-project.org>
+
+        2.  All things R
+
+        3.  Packages
+
+        4.  Task Views
+
+4.  R Data Structures
+
+    1.  Vector
+
+    2.  Matrix
+
+    3.  Array
+
+    4.  Factor
+
+    5.  List
+
+    6.  Data.frame
+
+5.  R Atomic Types
+
+    1.  Logical
+
+    2.  integer
+
+    3.  real
+
+    4.  complex
+
+    5.  string
+
+    6.  character
+
+    7.  raw
+
+6.  Think like an R programmer
+
+    1.  Vector-based program flow
+    2.  Create and Use Functions
+    3.  Use pipe-forward `|>`
+    4.  Get Help
+    5.  Use packages: `install.packages()`
+
+7.  Create Charts with R
+
+8.  Understand the Tidyverse
+
+    1.  BaseR vs Tidyverse
+
+    2.  Install the tidyverse: `install.packages("tidyverse")`
+
+    3.  dplyr
+
+    4.  lubridate
+
+9.  Bioconductor
+
+    1.  <https://www.bioconductor.org/>
+    2.  genomic, DNA, sequencing
+
+10. Where to go from here
+
+    1.  R documentation
